@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Palace",
+    "location": "Chennai",
+    "rating": 4.5,
+    "rooms": [
+      { "id": 101, "type": "Standard", "price": 2000, "available": true }
+    ]
+  }
+]
