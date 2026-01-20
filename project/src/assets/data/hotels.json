@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Grand Palace", "location": "Chennai", "rating": 4.5 },
+  { "id": 2, "name": "Sea View Resort", "location": "Goa", "rating": 4.2 }
+]
